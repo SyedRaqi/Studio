@@ -1,76 +1,102 @@
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:312E81,100:06B6D4&text=STUDIO&fontColor=FFFFFF&fontSize=75&fontAlignY=40&animation=fadeIn&desc=IMAGINE.%20CREATE.%20BUILD%20THE%20FUTURE.&descAlignY=62&descSize=15" width="100%" />
-
-# STUDIO
-
-### A Creative Space for Tomorrow's Innovations
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Imagine+Beyond+Limits;Design+Tomorrow's+Products;Turn+Ideas+Into+Reality" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,35:111827,70:312e81,100:06b6d4&text=STUDIO&fontColor=ffffff&fontSize=100&fontAlignY=48&animation=fadeIn&stroke=64748b&strokeWidth=1" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-111827?style=for-the-badge&logo=github)](https://github.com/SyedRaqi/Studio)
+# WE CREATE WHAT DOESN'T EXIST. YET.
+
+**AN EXPERIMENTAL CREATIVE SPACE FOR THE FUTURE.**
+
+<br/>
+
+[ EXPLORE THE REPOSITORY ](https://github.com/SyedRaqi/Studio)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=THINK+BEYOND+THE+PRESENT.;IMAGINE+WITHOUT+LIMITS.;BUILD+THE+NEXT+POSSIBILITY." />
 
 </div>
 
 ---
 
-## ◈ THE VISION
-
-Studio is a creative digital space designed to imagine, explore and build future products.
-
-A place where creativity meets technology, and ideas become experiences.
-
-## ◈ EXPERIENCE
-
-- ✦ Modern creative interface
-- ✦ Smooth motion and transitions
-- ✦ Immersive visual experiences
-- ✦ Future-focused product exploration
-- ✦ Minimal and premium design
-
-## ◈ TECHNOLOGY
-
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer)
-![Lenis](https://img.shields.io/badge/Lenis-Smooth_Scroll-111827?style=for-the-badge)
+### 01 — THE CONCEPT
+
+# NOT JUST A STUDIO.
+# A SPACE FOR POSSIBILITIES.
 
 </div>
 
-## ◈ GET STARTED
+Studio is a digital creative environment built around one idea:
+
+*The future isn't something we wait for. It's something we imagine, experiment with, and create.*
+
+---
+
+<div align="center">
+
+### 02 — THE EXPERIENCE
+
+| DIMENSION | EXPERIENCE |
+|:---|:---|
+| DESIGN | Immersive visual language |
+| MOTION | Smooth transitions and interactions |
+| CREATIVITY | Future-focused exploration |
+| TECHNOLOGY | Modern React ecosystem |
+
+</div>
+
+---
+
+<div align="center">
+
+### 03 — THE TECHNOLOGY
+
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,js,html,css" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FRAMER_MOTION-000000?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/LENIS-SMOOTH_SCROLL-111827?style=flat-square" />
+
+</div>
+
+---
+
+### 04 — RUN THE EXPERIENCE
 
 ```bash
 git clone https://github.com/SyedRaqi/Studio.git
+
 cd Studio
+
 npm install
+
 npm run dev
-```
-
-## ◈ PROJECT STRUCTURE
-
-```text
-Studio/
-├── public/
-├── src/
-├── index.html
-├── package.json
-└── README.md
 ```
 
 ---
 
 <div align="center">
 
-### THE FUTURE IS A CANVAS.
+### 05 — THE PHILOSOPHY
 
-**Imagine it. Design it. Build it.**
+# THE FUTURE IS UNWRITTEN.
 
-Made with creativity by [SyedRaqi](https://github.com/SyedRaqi)
+<sub>Every great creation begins as an impossible idea.</sub>
+
+<br/><br/>
+
+**STUDIO®**
+
+*IMAGINE. EXPLORE. CREATE.*
+
+<br/>
+
+Created by [SyedRaqi](https://github.com/SyedRaqi)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:020617&height=120&section=footer" />
 
 </div>
