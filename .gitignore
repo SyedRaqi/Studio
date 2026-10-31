@@ -1,19 +1,11 @@
-# Dependencies
+
 node_modules/
-
-# Build output
 dist/
-
-# GitHub Pages deployment folder
 gh-pages/
 
-# Environment files
 .env
 .env.local
 
-# Logs
 *.log
-
-# Operating system
 .DS_Store
 Thumbs.db
